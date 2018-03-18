@@ -19,3 +19,8 @@
       name: tomcat
       state: started
       enabled: yes
+      
+      #service:
+      #name: tomcat
+      #state: started
+      #enabled: yes
